@@ -1,6 +1,6 @@
-# quds1_flutter
+# Final-Project-Quds-App
 
-A new Flutter project.
+A Final Flutter project.
 
 ## Getting Started
 
